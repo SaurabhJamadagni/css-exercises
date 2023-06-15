@@ -1,0 +1,26 @@
+body {
+    font-family: Verdana, sans-serif;
+}
+
+.odd {
+    background-color: pink;
+}
+
+.odd.num-3 {
+    font-size: 24px;
+}
+
+.num-4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#unique-element {
+    color: blue;
+    font-size: 36px;
+}
+
+/* NOTES
+Look out for what is repeated.
+Club them under one selector if possible. */
